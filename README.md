@@ -14,7 +14,8 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-这是 我的个人网站，目前处于测试期。！
+这是 我的个人网站，目前处于内部测试初期。！
+                                --©易朝新
 - Bulleted
 - List
 
